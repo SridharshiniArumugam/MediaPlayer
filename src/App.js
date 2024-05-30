@@ -1,6 +1,4 @@
 import React from "react";
-import playFile from "./playFile";
-
 function App() {
   return (
     <>
